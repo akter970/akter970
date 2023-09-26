@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**akter970/akter970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![MastHead](https://github.com/NishanAkterRaj/NishanAkterRaj/blob/main/nishanakterraj/cover.png)](https://github.com/nishanakterraj)
 
